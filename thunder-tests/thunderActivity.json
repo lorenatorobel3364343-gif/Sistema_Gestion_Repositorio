@@ -1,0 +1,14 @@
+[
+    {
+        "_id": "05c26b7b-c522-47d9-bd1e-cc9f83a5e919",
+        "colId": "history",
+        "containerId": "",
+        "name": "http://127.0.0.1:8000/api/v1/libros",
+        "url": "http://127.0.0.1:8000/api/v1/libros",
+        "method": "GET",
+        "sortNum": 0,
+        "created": "2026-10-13T20:21:32.683Z",
+        "modified": "2026-10-13T20:22:29.863Z",
+        "headers": []
+    }
+]
